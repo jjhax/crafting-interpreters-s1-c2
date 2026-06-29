@@ -14,6 +14,8 @@ make run
 
 ## Debugging
 
-Use the Java Debugger `jdb` from the command line to debug. Read the documentation.
+Use the Java Debugger `jdb` from the command line to debug.
 
-A cheatsheet can be found here: https://gist.github.com/ranjitiyer/a056da16a7da95a3e4aba96bc2a73404
+* [RTFM](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdb.html)
+* [Cheatsheet](https://gist.github.com/ranjitiyer/a056da16a7da95a3e4aba96bc2a73404)
+* [Java 25 Documentation](https://docs.oracle.com/en/java/javase/25/)
